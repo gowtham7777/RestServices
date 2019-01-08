@@ -9,6 +9,9 @@ https://start.spring.io
 * Devtool will open tomcat server running on 8080
 
 *First Service Hello World is added. 
- Issue: Got whitelabel error at 8080/hello
- Resolution: main class should be in root package above other classes(com.demo.rest.wservices)
+* Issue: Got whitelabel error at 8080/hello
+*  Resolution: main class should be in root package above other classes(com.demo.rest.wservices)
 
+* @GetMapping("/hello") is easiler way 
+
+* @RequestMapping(method = RequestMethod.GET, path="/hello") 
