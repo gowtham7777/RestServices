@@ -1,4 +1,4 @@
-package com.demo.rest.wservices.demorestservices;
+package com.demo.rest.wservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
