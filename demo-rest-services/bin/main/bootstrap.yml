@@ -31,8 +31,4 @@ feign:
       default:
         connectTimeout: 50000
         readTimeout: 50000
-<<<<<<< HEAD
         loggerLevel: basic
-=======
-        loggerLevel: basic
->>>>>>> 64ada022ec97d4d3d39a34874e73f7ee08a7f8a1
